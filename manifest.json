@@ -1,0 +1,11 @@
+{
+  "domain": "mqtt-media-player",
+  "name": "MQTT Media Player",
+  "documentation": "https://github.com/douglampe/mqtt-media-player",
+  "after_dependencies": [
+      "mqtt"
+  ],
+  "requirements": [],
+  "codeowners": [],
+  "version": "1.0.0"
+}
